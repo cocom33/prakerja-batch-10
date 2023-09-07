@@ -1,3 +1,5 @@
 belajar go with prakerja
 
 git push
+
+git conflict ke 2
