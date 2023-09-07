@@ -2,4 +2,8 @@ belajar go with prakerja
 
 git push
 
+<<<<<<< HEAD
+test conflik
+=======
 ini juga test conflik
+>>>>>>> 94a7ecfe41e0374571c9e1cca6a69e34020a0ecc
