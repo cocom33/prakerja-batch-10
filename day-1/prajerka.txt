@@ -2,4 +2,5 @@ belajar go with prakerja
 
 git push
 
+afsd
 git conflict ke 1
