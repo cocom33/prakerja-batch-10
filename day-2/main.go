@@ -38,8 +38,9 @@ func main() {
 	fmt.Println()
 	fmt.Println()
 	
-	var panjang int = 12
-	var lebar int = 10
-	var luas int = panjang * lebar
-	fmt.Printf("%d x %d adalah : %v \n", panjang, lebar, luas)
+	var panjangA int = 12
+	var panjangB int = 12
+	var tinggi int = 10
+	var luas int = (panjangA + panjangB) * tinggi / 2
+	fmt.Printf("trapesium dengan panjang atas %d dan panjang bawah %d dan tinggi %d adalah : %v \n", panjangA, panjangB, tinggi, luas)
 }
