@@ -1,8 +1,8 @@
-package main
+package day2
 
 import "fmt"
 
-func main() {
+func day2() {
 	maksimalAngka := 100
 
 	bilPrima := make([]bool, maksimalAngka+1)
