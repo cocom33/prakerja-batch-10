@@ -5,7 +5,7 @@ import (
 	"slices"
 )
 
-func main() {
+func day3() {
 	// soal 1
 	fmt.Println(ArrayMerge([]string{"asd","asf","fefw","geqrg", "asd"}, []string{"erba","asd","asf"}))
 	

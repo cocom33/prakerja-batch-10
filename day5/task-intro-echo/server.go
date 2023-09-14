@@ -1,4 +1,4 @@
-package main
+package day5
 
 import (
 	"net/http"
@@ -137,7 +137,7 @@ func DeleteUserController(c echo.Context) error {
 }
 
 // ---------------------------------------------------
-func main() {
+func server() {
 	// instance of Echo
 	e := echo.New()
 

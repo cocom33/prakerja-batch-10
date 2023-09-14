@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func day4() {
 	// soal 1
 	var car Car
 	car.tipe = "kijang"
